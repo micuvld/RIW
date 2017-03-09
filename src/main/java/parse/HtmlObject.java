@@ -1,5 +1,8 @@
 package parse;
 
+import util.Utils;
+
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
@@ -116,8 +119,10 @@ public class HtmlObject {
     }
 
     public void writeTextToFile(String path) throws FileNotFoundException, UnsupportedEncodingException {
-        String fileName = Paths.get(baseUrl).getFileName().toString();
-        PrintWriter writer = new PrintWriter(path + fileName, "UTF-8");
+        File file = new File(path + Utils.changeFileExtension(fileName, "txt"));
+        file.getParentFile().mkdirs();
+
+        PrintWriter writer = new PrintWriter(file);
         writer.println(text.toString());
         writer.close();
     }

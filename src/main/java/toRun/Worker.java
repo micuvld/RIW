@@ -1,10 +1,8 @@
 package toRun;
 
 import index.FileIndexer;
-import parse.DirectoryParser;
-import parse.HtmlObject;
-import parse.HtmlParser;
-import parse.IParser;
+import index.InverseIndexer;
+import parse.*;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -23,15 +21,23 @@ public class Worker {
         DirectoryParser directoryParser = new DirectoryParser(parser);
 
         FileIndexer fileIndexer = new FileIndexer(properties.getProperty("index_dictionary_path"));
+        DirectoryIndexer directoryIndexer = new DirectoryIndexer(fileIndexer);
         List<HtmlObject> htmlObjects = new ArrayList<HtmlObject>();
+        String relativePath;
 
         try {
-            directoryParser.parseDirectory(Paths.get(properties.getProperty("input_directory_path")), htmlObjects);
+            directoryParser.parseDirectoryAndGenerateHtmlObjects(Paths.get(properties.getProperty("input_directory_path")), htmlObjects);
             for (HtmlObject htmlObject : htmlObjects) {
-                htmlObject.writeTextToFile(properties.getProperty("raw_output_directory_path"));
+                relativePath = getPathRelativeToRootDirectory(htmlObject.getBaseUrl(),
+                        properties.getProperty("input_directory_path")) + "/";
+                htmlObject.writeTextToFile(properties.getProperty("raw_output_directory_path") +
+                        relativePath);
             }
 
-            fileIndexer.indexFiles(htmlObjects);
+            directoryIndexer.indexDirectory(Paths.get(properties.getProperty("raw_output_directory_path")), "txt");
+            InverseIndexer inverseIndexer = new InverseIndexer("");
+            inverseIndexer.indexFiles(Paths.get("/home/vlad/workspace/RIW/outdir/direct_index.txt"));
+            //inverseIndexer.BSBI(Paths.get("/home/vlad/workspace/RIW/outdir/direct_index.txt"));
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -53,5 +59,10 @@ public class Worker {
         }
 
         return null;
+    }
+
+
+    public static String getPathRelativeToRootDirectory(String absolutePath, String rootPath) {
+        return absolutePath.substring(rootPath.length());
     }
 }

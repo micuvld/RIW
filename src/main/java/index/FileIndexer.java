@@ -1,32 +1,34 @@
 package index;
 
 
-import parse.DirectoryParser;
 import parse.HtmlObject;
+import util.Utils;
 
 import java.io.*;
+import java.nio.charset.Charset;
+import java.nio.file.Path;
 import java.util.*;
 
 /**
  * Created by vlad on 22.02.2017.
  */
-public class FileIndexer {
+public class FileIndexer implements IIndexer {
     private final String STOP_WORDS_FILE = "resources/stop_words.txt";
     private final String EXCEPTION_WORDS_FILE = "resources/exception_words.txt";
+    private final String INDEX_DIRECTORY_PATH = "/home/vlad/workspace/RIW/outdir/";
 
     private final List<String> stopWords = new ArrayList<String>();
     private final List<String> exceptionWords = new ArrayList<String>();
 
-    private String indexDictionaryPath;
+    //private String indexDictionaryPath;
     private Map<String, Integer> indexList;
-    private Integer currentIndex = 0;
 
     public Map<String, Integer> getIndexList() {
         return indexList;
     }
 
     public FileIndexer(String indexDictionaryPath) {
-        this.indexDictionaryPath = indexDictionaryPath;
+        //this.indexDictionaryPath = indexDictionaryPath;
         populateExceptionAndStopLists();
     }
 
@@ -35,13 +37,13 @@ public class FileIndexer {
     }
     */
 
-    public void indexFiles(List<HtmlObject> htmlObjects) {
+    public void indexHtmlObjects(List<HtmlObject> htmlObjects) {
         for (HtmlObject htmlObject : htmlObjects) {
-            indexFile(htmlObject);
+            indexHtmlObject(htmlObject);
         }
     }
 
-    public void indexFile(HtmlObject htmlObject) {
+    public void indexHtmlObject(HtmlObject htmlObject) {
         indexList = new TreeMap<String, Integer>();
         StringBuilder word = new StringBuilder();
 
@@ -49,17 +51,43 @@ public class FileIndexer {
             if (Character.isLetter(c)) {
                 word.append(c);
             } else {
-                processWord(word.toString().toLowerCase(), htmlObject.getBaseUrl());
+                processWord(word.toString().toLowerCase());
                 word.replace(0, word.length(), "");
             }
         }
 
-        String idxdFileName = DirectoryParser.changeFileExtension(htmlObject.getFileName(), "idxd");//htmlObject.getFileName().split("\\.")[0] + ".idxd";
+        String idxdFileName = Utils.changeFileExtension(htmlObject.getFileName(), "idxd");
         writeIndexFile(htmlObject.getBaseUrl() + "/" + idxdFileName);
         writeToIndexDictionary(htmlObject.getBaseUrl() + "/" + htmlObject.getFileName(), htmlObject.getBaseUrl() + "/" + idxdFileName);
     }
 
-    private void processWord(String word, String filePath) {
+    public void indexFile(Path path) throws IOException {
+        BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(path.toString()),
+                        Charset.forName("UTF-8")));
+        indexList = new TreeMap<String, Integer>();
+        StringBuilder word = new StringBuilder();
+
+        int c;
+        while((c = reader.read()) != -1) {
+            char charC = (char)c;
+            if (Character.isLetter(charC)) {
+                word.append(charC);
+            } else {
+                processWord(word.toString().toLowerCase());
+                word.replace(0, word.length(), "");
+            }
+        }
+
+        String parentPath = path.getParent().toString();
+        String fileName = path.getFileName().toString();
+        String idxdFileName = Utils.changeFileExtension(fileName, "idxd");
+
+        writeIndexFile(path.getParent().toString() + "/" + idxdFileName);
+        writeToIndexDictionary(parentPath + "/" + fileName, parentPath + "/" + idxdFileName);
+
+    }
+
+    private void processWord(String word) {
         if (!isException(word)) {
             if (isStopWord(word)) {
                 return;
@@ -75,11 +103,9 @@ public class FileIndexer {
                 indexList.put(word, 1);
             }
         }
-
-        currentIndex++;
     }
 
-//    public void indexFile(HtmlObject htmlObject) {
+//    public void indexHtmlObject(HtmlObject htmlObject) {
 //        StringBuilder word = new StringBuilder();
 //        String wordIndex;
 //
@@ -167,7 +193,7 @@ public class FileIndexer {
             writer = new PrintWriter(indexFilePath, "UTF-8");
 
             for (Map.Entry<String, Integer> entry : indexList.entrySet()) {
-                writer.write(entry.getKey() + " : " + entry.getValue() + "\n");
+                writer.write(entry.getKey() + ":" + entry.getValue() + "\n");
             }
 
             writer.close();
@@ -180,11 +206,11 @@ public class FileIndexer {
 
     public void writeToIndexDictionary(String inputFilePath, String indexFilePath) {
         try {
-            FileWriter fw = new FileWriter(indexDictionaryPath, true);
+            FileWriter fw = new FileWriter(INDEX_DIRECTORY_PATH + "direct_index.txt", true);
             BufferedWriter bw = new BufferedWriter(fw);
             PrintWriter outWriter = new PrintWriter(bw);
 
-            outWriter.write(inputFilePath + " -> " + indexFilePath + "\n");
+            outWriter.write(Utils.getRelativePath(inputFilePath, "/home/vlad/workspace/RIW/outdir/raw_output/") + ":" + indexFilePath + "\n");
 
             outWriter.close();
         } catch (UnsupportedEncodingException e) {
@@ -194,5 +220,10 @@ public class FileIndexer {
         } catch (IOException e) {
             e.printStackTrace();
         }
+    }
+
+    @Override
+    public void indexFiles(Path path) throws IOException {
+
     }
 }
