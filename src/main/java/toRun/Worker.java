@@ -38,6 +38,10 @@ public class Worker {
             InverseIndexer inverseIndexer = new InverseIndexer("");
             inverseIndexer.indexFiles(Paths.get("/home/vlad/workspace/RIW/outdir/direct_index.txt"));
             //inverseIndexer.BSBI(Paths.get("/home/vlad/workspace/RIW/outdir/direct_index.txt"));
+
+            /**
+             * USE JACKSON!
+             */
         } catch (IOException e) {
             e.printStackTrace();
         }
