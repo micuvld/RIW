@@ -13,9 +13,9 @@ import java.util.List;
  * Created by vlad on 23.02.2017.
  */
 public class DirectoryParser {
-    private IParser parser;
+    private HtmlParser parser;
 
-    public DirectoryParser(IParser parser) {
+    public DirectoryParser(HtmlParser parser) {
         this.parser = parser;
     }
 

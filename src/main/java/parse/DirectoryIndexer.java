@@ -1,6 +1,6 @@
 package parse;
 
-import index.FileIndexer;
+import index.DirectIndexer;
 import util.Utils;
 
 import java.io.IOException;
@@ -12,10 +12,10 @@ import java.nio.file.Path;
  * Created by vlad on 07.03.2017.
  */
 public class DirectoryIndexer {
-    FileIndexer fileIndexer;
+    DirectIndexer directIndexer;
 
-    public DirectoryIndexer(FileIndexer fileIndexer) {
-        this.fileIndexer = fileIndexer;
+    public DirectoryIndexer(DirectIndexer directIndexer) {
+        this.directIndexer = directIndexer;
     }
 
     public void indexDirectory(Path path, String fileExtension) throws IOException {
@@ -25,7 +25,7 @@ public class DirectoryIndexer {
                 indexDirectory(entry, fileExtension);
             } else {
                 if (Utils.getFileExtension(entry.getFileName().toString()).equals(fileExtension)) {
-                    fileIndexer.indexFile(entry);
+                    directIndexer.indexFile(entry);
                 }
             }
         }

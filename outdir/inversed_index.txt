@@ -1,958 +1,960 @@
-abruptly:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-accept:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-accessibility:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-achieve:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-actively:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-activity:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-actually:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-adaptive:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-add:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-added:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-addition:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-additional:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-adoption:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-advanced:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-affiliates:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-age:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-agent:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-agentlib:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-agentpath:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-aggressive:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-aggressiveopts:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-allocation:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-allocationprefetchstyle:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-allow:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-along:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-already:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-also:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-always:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-amount:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-ampersand:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-api:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-apis:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-appear:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-append:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-appending:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-appendix:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-applet:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-applets:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-application:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-applications:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-apply:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-appropriate:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-arbitrarily:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-archives:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-args:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-argument:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-arguments:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-array:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-assertion:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-assertions:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-asserts:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-assigns:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-associated:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-asterisk:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-attach:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-attaching:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-available:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-average:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-avoid:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-awt:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-b:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-background:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-backward:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-base:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-based:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-beans:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-become:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-beginning:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-begins:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-behavior:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-benefits:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-best:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-binary:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-bit:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-boot:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-bootclasspath:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-bootstrap:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-bottom:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-bound:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-bounded:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-box:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-break:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-brickbat:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-browser:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-buffer:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-buffers:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-bug:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-bugs:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-builder:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-bytecode:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-bytecodes:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-bytes:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-c:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-call:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-called:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-calling:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-calls:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-can:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-capable:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-capacity:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-cards:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-case:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-cases:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-categorizes:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-cause:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-causing:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-change:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-checks:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-choose:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-chosen:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-chunks:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-class:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-classes:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-classname:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-classpath:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-cleanup:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-client:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-close:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-closer:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-closing:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-cms:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-code:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-collection:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-collections:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-collector:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-collectors:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-com:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-combined:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-comma:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-command:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-commands:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-commercial:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-compatibility:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-compilation:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-compiler:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-compilers:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-compiles:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-completed:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-completion:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-complexity:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-component:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-components:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-compress:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-compressed:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-compression:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-conceptual:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-concurrency:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-concurrent:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-concurrently:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-configuration:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-configurations:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-conformance:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-connections:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-consequences:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-considered:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-consisting:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-consists:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-console:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-constraints:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-contact:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-contain:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-containing:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-contains:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-content:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-contention:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-continue:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-continuous:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-continuously:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-contravene:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-control:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-controlled:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-convenience:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-copyright:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-count:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-cp:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-created:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-creates:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-creation:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-ctrl:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-current:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-currently:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-d:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-da:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-data:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-database:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-date:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-db:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-debug:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-debuggers:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-debugging:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-declaration:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-declared:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-default:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-defaultrecording:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-defaut:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-defined:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-definition:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-degradation:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-delay:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-deploy:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-deployed:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-deployment:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-deployments:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-depth:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-description:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-detection:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-developers:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-developing:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-development:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-diagnosing:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-diagnostic:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-diagram:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-dialog:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-difference:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-difficult:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-directories:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-directory:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-disable:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-disableassertions:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-disableattachmechanism:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-disabled:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-disables:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-disablesystemassertions:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-disk:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-display:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-displays:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-dmydir:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-docs:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-documentation:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-double:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-downloads:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-dproperty:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-drag:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-drop:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-dsa:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-due:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-dump:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-dumping:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-dumponexit:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-dumponexitpath:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-dumps:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-duration:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-dynamic:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-dynamically:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-ea:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-earlier:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-easy:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-edition:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-ee:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-effort:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-either:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-element:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-enable:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-enableassertions:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-enabled:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-enables:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-enablesystemassertions:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-encapsulated:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-enclose:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-encountered:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-encouraged:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-ending:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-enforce:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-engine:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-ensures:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-entries:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-entry:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-environment:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-equivalent:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-ergonomics:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-error:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-errors:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-esa:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-especially:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-even:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-event:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-events:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-ever:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-everything:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-exact:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-example:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-examples:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-except:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-exception:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-exceptions:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-excludes:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-execute:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-executed:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-executes:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-execution:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-exists:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-exit:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-exits:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-exitvalue:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-expanded:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-expands:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-expansion:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-expect:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-experimental:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-expressions:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-extension:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-extensions:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-facility:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-fails:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-false:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-family:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-faster:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-fatal:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-feature:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-features:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-file:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-filename:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-files:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-fine:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-finished:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-first:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-fixed:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-flag:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-flags:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-flight:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-flightrecorder:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-flightrecorderoptions:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-flush:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-flushed:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-followed:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-following:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-follows:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-footprint:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-foreground:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-form:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-format:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-formed:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-forname:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-found:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-foundation:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-front:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-fruitbat:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-full:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-fully:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-function:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-functionality:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-functions:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-future:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-g:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-garbage:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-gathering:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-gb:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-gc:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-generated:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-generation:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-getenv:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-gives:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-glassfish:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-global:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-globalbuffersize:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-goal:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-greater:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-guide:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-guides:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-gzip:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-handler:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-header:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-heavily:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-help:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-hidden:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-higher:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-home:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-hook:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-hooks:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-hotspot:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-however:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-hprof:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-html:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-http:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-id:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-identical:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-identifier:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-identifies:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-idl:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-ids:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-ignored:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-ignores:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-iiop:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-ill:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-illustrates:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-image:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-imagepath:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-impact:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-implement:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-implementation:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-implicit:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-implying:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-important:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-include:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-included:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-includes:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-including:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-increase:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-increasing:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-incremental:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-indicate:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-indicated:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-indicates:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-info:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-information:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-initial:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-initiate:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-input:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-install:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-installation:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-installed:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-instances:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-instead:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-instruct:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-instructions:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-instrument:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-instrumentation:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-instrumenting:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-int:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-integration:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-intended:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-intent:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-interface:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-interference:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-interpreted:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-interpreter:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-introduced:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-invalid:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-invocations:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-item:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-items:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-j:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-jar:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-jarpath:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-java:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-javaagent:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-javac:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-javadoc:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-javafx:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-javah:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-javap:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-javascript:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-javase:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-javaw:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-jaxp:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-jconsole:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-jdb:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-jdbc:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-jdk:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-jdwp:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-jfc:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-jfr:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-jmap:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-jmc:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-jmx:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-jndi:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-jni:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-jpda:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-jre:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-jres:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-jsr:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-jvm:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-jvmti:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-k:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-kb:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-kilobytes:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-kit:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-l:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-lang:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-language:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-large:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-latency:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-launch:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-launcher:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-launches:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-launching:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-less:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-letter:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-level:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-levels:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-lib:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-libname:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-libraries:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-library:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-license:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-limited:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-line:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-links:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-list:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-listed:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-lists:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-loaded:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-loader:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-loaders:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-loading:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-loads:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-local:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-located:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-location:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-locations:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-log:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-logging:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-logical:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-loglevel:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-logoff:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-logs:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-long:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-lot:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-lower:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-m:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-machine:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-made:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-main:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-make:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-makes:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-management:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-manifest:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-manner:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-mark:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-marks:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-match:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-math:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-maxage:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-maxchunksize:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-maxgcpausemillis:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-maximum:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-maxsize:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-may:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-mb:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-meaning:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-means:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-mechanism:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-meet:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-megabytes:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-memory:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-method:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-methods:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-milliseconds:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-minimum:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-minutes:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-mission:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-mode:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-multiple:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-must:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-mydir:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-n:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-name:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-names:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-native:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-navigation:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-necessary:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-netbeans:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-network:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-networking:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-new:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-newsize:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-non:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-none:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-nonstandard:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-note:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-notes:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-number:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-nursery:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-o:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-objects:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-occasional:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-occurred:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-occurs:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-offered:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-often:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-one:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-ones:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-open:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-operates:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-operating:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-optimization:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-optimize:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-optimized:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-option:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-options:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-oracle:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-order:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-ordered:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-orderly:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-outofmemoryerror:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-output:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-overall:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-override:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-overrides:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-overriding:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-p:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-package:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-page:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-pages:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-papers:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-parallel:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-parallelgcthreads:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-parameter:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-parameters:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-part:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-passed:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-path:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-pathname:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-patterns:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-pause:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-pauses:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-per:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-perform:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-performance:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-performed:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-performs:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-place:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-places:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-platform:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-plug:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-plus:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-point:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-policies:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-policy:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-pool:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-possible:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-preceded:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-precise:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-predictedclassloadcount:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-preference:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-preferences:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-prefetch:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-prefix:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-present:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-preven:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-previous:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-primary:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-print:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-printcompilation:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-printgcdetails:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-printgctimestamps:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-prints:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-private:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-problem:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-problems:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-proceeds:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-process:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-processed:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-processing:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-processor:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-production:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-products:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-profiles:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-profiling:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-program:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-programming:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-prompt:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-properly:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-property:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-protection:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-protocol:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-provide:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-provided:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-provides:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-public:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-purpose:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-purposes:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-qualified:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-querying:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-quiet:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-quotation:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-range:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-ranges:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-rather:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-reason:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-receive:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-recommended:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-recorder:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-recording:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-recordings:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-recovery:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-reduce:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-reduces:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-ref:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-reference:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-references:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-reflection:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-registers:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-regular:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-release:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-releases:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-remote:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-reported:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-reports:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-repository:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-represent:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-represented:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-request:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-required:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-requirements:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-requires:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-reserved:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-resource:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-resources:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-response:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-responsible:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-restrict:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-restricted:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-restrictions:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-retention:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-return:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-returned:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-returns:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-rich:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-rights:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-rmi:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-rt:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-rule:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-run:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-running:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-runs:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-runtime:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-s:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-sames:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-sample:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-samplethreads:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-sampling:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-satisfy:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-save:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-scene:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-screen:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-scripting:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-se:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-search:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-searches:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-seconds:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-section:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-security:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-see:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-selection:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-selects:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-semicolon:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-semicolons:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-sends:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-sense:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-separate:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-separated:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-separating:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-serialization:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-serious:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-serve:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-server:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-serves:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-service:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-services:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-servlet:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-set:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-sets:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-setting:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-settings:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-show:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-shown:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-shows:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-showversion:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-shutdown:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-sign:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-signals:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-similar:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-similarly:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-simply:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-since:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-single:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-size:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-sizes:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-skip:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-soft:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-softreflrupolicymspermb:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-software:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-someclass:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-sound:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-source:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-spaces:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-special:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-specifically:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-specification:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-specifications:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-specified:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-specifies:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-specify:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-specifying:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-splash:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-stack:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-stackdepth:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-stacks:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-stalling:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-stamp:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-stamps:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-standard:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-start:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-started:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-startflightrecording:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-starting:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-starts:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-startup:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-static:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-status:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-storage:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-strict:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-stricter:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-string:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-strings:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-style:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-subject:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-subpackages:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-subset:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-successful:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-suite:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-summary:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-superset:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-support:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-supported:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-sweep:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-swing:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-switch:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-switches:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-swith:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-synopsis:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-syntax:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-system:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-systems:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-target:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-task:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-technologies:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-technology:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-technotes:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-tell:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-temporary:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-terminate:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-terminated:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-terminates:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-termination:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-terror:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-test:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-thread:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-threadbuffersize:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-threads:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-three:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-throughput:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-thrown:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-thus:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-ti:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-time:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-times:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-tlab:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-tlabs:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-tlabsize:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-toggles:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-tool:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-toolkits:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-tools:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-top:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-total:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-trace:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-traces:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-training:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-troubleshoot:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-troubleshooting:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-true:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-truncated:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-tuning:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-turn:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-turned:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-turns:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-tutorials:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-two:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-type:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-typically:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-unexpected:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-unlock:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-unlockcommercialfeatures:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-unlockexperimentalvmoptions:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-unnamed:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-unspecified:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-untrusted:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-updates:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-upper:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-us:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-usage:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-use:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-usecompressedoops:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-useconcmarksweepgc:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-used:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-useful:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-useg:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-uselargepages:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-useparalleloldgc:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-user:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-uses:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-using:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-util:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-utilities:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-utility:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-utilize:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-valid:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-validates:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-value:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-values:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-variable:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-verbose:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-verification:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-verifier:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-verifies:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-version:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-versioning:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-versions:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-violates:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-virtual:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-visualvm:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-vm:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-vms:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-void:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-want:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-warning:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-watch:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-watches:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-web:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-whether:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-white:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-wild:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-wildcard:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-will:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-window:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-without:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-wombat:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-work:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-working:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-write:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-written:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-wrong:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-x:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-xbatch:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-xbootclasspath:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-xcheck:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-xfuture:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-xincgc:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-xint:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-xloggc:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-xml:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-xmn:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-xmnsize:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-xms:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-xmsn:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-xmx:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-xmxn:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-xnoclassgc:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-xprof:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-xrs:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-xssn:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-xverify:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-xx:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-xxlargepagesizeinbytes:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-young:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
-zip:/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi
+{
+  "abruptly" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "accept" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "accessibility" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "achieve" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "actively" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "activity" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "actually" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "adaptive" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "add" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "added" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "addition" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "additional" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "adoption" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "advanced" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "affiliates" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "age" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "agent" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "agentlib" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "agentpath" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "aggressive" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "aggressiveopts" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "allocation" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "allocationprefetchstyle" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "allow" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "along" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "already" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "also" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "always" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "amount" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "ampersand" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "api" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "apis" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "appear" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "append" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "appending" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "appendix" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "applet" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "applets" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "application" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "applications" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "apply" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "appropriate" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "arbitrarily" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "archives" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "args" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "argument" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "arguments" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "array" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "assertion" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "assertions" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "asserts" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "assigns" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "associated" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "asterisk" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "attach" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "attaching" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "available" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "average" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "avoid" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "awt" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "b" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "background" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "backward" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "base" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "based" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "beans" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "become" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "beginning" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "begins" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "behavior" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "benefits" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "best" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "binary" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "bit" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "boot" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "bootclasspath" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "bootstrap" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "bottom" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "bound" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "bounded" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "box" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "break" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "brickbat" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "browser" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "buffer" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "buffers" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "bug" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "bugs" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "builder" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "bytecode" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "bytecodes" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "bytes" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "c" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "call" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "called" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "calling" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "calls" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "can" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "capable" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "capacity" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "cards" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "case" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "cases" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "categorizes" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "cause" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "causing" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "change" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "checks" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "choose" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "chosen" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "chunks" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "class" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "classes" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "classname" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "classpath" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "cleanup" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "client" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "close" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "closer" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "closing" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "cms" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "code" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "collection" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "collections" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "collector" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "collectors" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "com" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "combined" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "comma" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "command" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "commands" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "commercial" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "compatibility" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "compilation" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "compiler" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "compilers" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "compiles" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "completed" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "completion" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "complexity" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "component" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "components" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "compress" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "compressed" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "compression" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "conceptual" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "concurrency" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "concurrent" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "concurrently" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "configuration" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "configurations" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "conformance" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "connections" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "consequences" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "considered" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "consisting" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "consists" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "console" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "constraints" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "contact" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "contain" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "containing" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "contains" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "content" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "contention" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "continue" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "continuous" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "continuously" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "contravene" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "control" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "controlled" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "convenience" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "copyright" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "count" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "cp" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "created" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "creates" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "creation" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "ctrl" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "current" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "currently" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "d" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "da" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "data" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "database" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "date" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "db" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "debug" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "debuggers" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "debugging" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "declaration" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "declared" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "default" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "defaultrecording" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "defaut" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "defined" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "definition" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "degradation" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "delay" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "deploy" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "deployed" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "deployment" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "deployments" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "depth" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "description" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "detection" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "developers" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "developing" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "development" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "diagnosing" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "diagnostic" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "diagram" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "dialog" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "difference" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "difficult" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "directories" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "directory" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "disable" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "disableassertions" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "disableattachmechanism" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "disabled" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "disables" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "disablesystemassertions" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "disk" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "display" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "displays" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "dmydir" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "docs" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "documentation" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "double" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "downloads" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "dproperty" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "drag" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "drop" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "dsa" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "due" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "dump" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "dumping" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "dumponexit" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "dumponexitpath" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "dumps" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "duration" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "dynamic" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "dynamically" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "ea" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "earlier" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "easy" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "edition" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "ee" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "effort" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "either" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "element" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "enable" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "enableassertions" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "enabled" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "enables" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "enablesystemassertions" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "encapsulated" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "enclose" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "encountered" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "encouraged" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "ending" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "enforce" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "engine" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "ensures" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "entries" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "entry" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "environment" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "equivalent" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "ergonomics" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "error" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "errors" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "esa" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "especially" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "even" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "event" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "events" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "ever" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "everything" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "exact" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "example" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "examples" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "except" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "exception" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "exceptions" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "excludes" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "execute" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "executed" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "executes" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "execution" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "exists" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "exit" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "exits" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "exitvalue" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "expanded" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "expands" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "expansion" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "expect" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "experimental" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "expressions" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "extension" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "extensions" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "facility" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "fails" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "false" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "family" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "faster" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "fatal" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "feature" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "features" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "file" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "filename" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "files" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "fine" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "finished" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "first" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "fixed" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "flag" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "flags" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "flight" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "flightrecorder" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "flightrecorderoptions" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "flush" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "flushed" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "followed" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "following" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "follows" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "footprint" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "foreground" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "form" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "format" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "formed" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "forname" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "found" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "foundation" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "front" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "fruitbat" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "full" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "fully" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "function" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "functionality" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "functions" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "future" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "g" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "garbage" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "gathering" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "gb" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "gc" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "generated" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "generation" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "getenv" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "gives" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "glassfish" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "global" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "globalbuffersize" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "goal" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "greater" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "guide" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "guides" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "gzip" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "handler" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "header" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "heavily" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "help" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "hidden" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "higher" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "home" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "hook" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "hooks" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "hotspot" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "however" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "hprof" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "html" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "http" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "id" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "identical" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "identifier" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "identifies" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "idl" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "ids" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "ignored" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "ignores" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "iiop" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "ill" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "illustrates" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "image" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "imagepath" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "impact" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "implement" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "implementation" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "implicit" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "implying" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "important" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "include" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "included" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "includes" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "including" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "increase" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "increasing" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "incremental" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "indicate" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "indicated" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "indicates" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "info" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "information" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "initial" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "initiate" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "input" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "install" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "installation" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "installed" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "instances" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "instead" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "instruct" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "instructions" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "instrument" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "instrumentation" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "instrumenting" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "int" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "integration" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "intended" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "intent" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "interface" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "interference" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "interpreted" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "interpreter" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "introduced" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "invalid" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "invocations" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "item" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "items" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "j" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "jar" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "jarpath" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "java" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "javaagent" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "javac" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "javadoc" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "javafx" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "javah" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "javap" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "javascript" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "javase" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "javaw" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "jaxp" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "jconsole" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "jdb" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "jdbc" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "jdk" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "jdwp" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "jfc" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "jfr" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "jmap" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "jmc" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "jmx" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "jndi" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "jni" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "jpda" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "jre" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "jres" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "jsr" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "jvm" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "jvmti" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "k" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "kb" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "kilobytes" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "kit" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "l" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "lang" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "language" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "large" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "latency" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "launch" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "launcher" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "launches" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "launching" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "less" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "letter" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "level" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "levels" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "lib" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "libname" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "libraries" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "library" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "license" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "limited" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "line" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "links" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "list" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "listed" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "lists" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "loaded" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "loader" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "loaders" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "loading" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "loads" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "local" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "located" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "location" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "locations" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "log" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "logging" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "logical" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "loglevel" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "logoff" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "logs" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "long" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "lot" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "lower" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "m" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "machine" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "made" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "main" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "make" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "makes" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "management" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "manifest" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "manner" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "mark" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "marks" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "match" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "math" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "maxage" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "maxchunksize" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "maxgcpausemillis" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "maximum" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "maxsize" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "may" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "mb" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "meaning" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "means" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "mechanism" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "meet" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "megabytes" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "memory" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "method" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "methods" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "milliseconds" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "minimum" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "minutes" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "mission" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "mode" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "multiple" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "must" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "mydir" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "n" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "name" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "names" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "native" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "navigation" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "necessary" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "netbeans" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "network" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "networking" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "new" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "newsize" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "non" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "none" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "nonstandard" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "note" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "notes" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "number" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "nursery" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "o" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "objects" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "occasional" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "occurred" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "occurs" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "offered" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "often" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "one" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "ones" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "open" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "operates" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "operating" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "optimization" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "optimize" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "optimized" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "option" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "options" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "oracle" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "order" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "ordered" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "orderly" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "outofmemoryerror" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "output" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "overall" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "override" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "overrides" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "overriding" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "p" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "package" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "page" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "pages" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "papers" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "parallel" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "parallelgcthreads" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "parameter" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "parameters" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "part" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "passed" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "path" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "pathname" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "patterns" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "pause" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "pauses" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "per" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "perform" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "performance" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "performed" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "performs" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "place" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "places" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "platform" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "plug" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "plus" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "point" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "policies" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "policy" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "pool" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "possible" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "preceded" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "precise" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "predictedclassloadcount" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "preference" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "preferences" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "prefetch" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "prefix" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "present" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "preven" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "previous" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "primary" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "print" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "printcompilation" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "printgcdetails" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "printgctimestamps" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "prints" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "private" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "problem" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "problems" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "proceeds" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "process" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "processed" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "processing" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "processor" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "production" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "products" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "profiles" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "profiling" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "program" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "programming" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "prompt" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "properly" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "property" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "protection" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "protocol" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "provide" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "provided" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "provides" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "public" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "purpose" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "purposes" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "qualified" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "querying" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "quiet" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "quotation" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "range" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "ranges" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "rather" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "reason" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "receive" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "recommended" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "recorder" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "recording" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "recordings" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "recovery" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "reduce" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "reduces" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "ref" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "reference" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "references" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "reflection" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "registers" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "regular" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "release" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "releases" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "remote" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "reported" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "reports" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "repository" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "represent" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "represented" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "request" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "required" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "requirements" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "requires" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "reserved" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "resource" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "resources" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "response" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "responsible" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "restrict" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "restricted" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "restrictions" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "retention" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "return" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "returned" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "returns" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "rich" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "rights" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "rmi" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "rt" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "rule" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "run" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "running" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "runs" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "runtime" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "s" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "sames" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "sample" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "samplethreads" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "sampling" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "satisfy" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "save" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "scene" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "screen" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "scripting" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "se" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "search" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "searches" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "seconds" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "section" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "security" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "see" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "selection" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "selects" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "semicolon" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "semicolons" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "sends" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "sense" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "separate" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "separated" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "separating" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "serialization" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "serious" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "serve" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "server" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "serves" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "service" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "services" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "servlet" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "set" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "sets" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "setting" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "settings" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "show" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "shown" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "shows" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "showversion" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "shutdown" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "sign" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "signals" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "similar" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "similarly" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "simply" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "since" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "single" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "size" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "sizes" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "skip" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "soft" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "softreflrupolicymspermb" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "software" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "someclass" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "sound" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "source" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "spaces" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "special" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "specifically" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "specification" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "specifications" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "specified" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "specifies" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "specify" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "specifying" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "splash" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "stack" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "stackdepth" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "stacks" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "stalling" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "stamp" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "stamps" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "standard" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "start" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "started" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "startflightrecording" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "starting" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "starts" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "startup" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "static" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "status" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "storage" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "strict" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "stricter" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "string" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "strings" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "style" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "subject" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "subpackages" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "subset" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "successful" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "suite" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "summary" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "superset" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "support" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "supported" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "sweep" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "swing" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "switch" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "switches" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "swith" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "synopsis" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "syntax" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "system" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "systems" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "target" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "task" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "technologies" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "technology" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "technotes" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "tell" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "temporary" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "terminate" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "terminated" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "terminates" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "termination" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "terror" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "test" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "thread" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "threadbuffersize" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "threads" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "three" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "throughput" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "thrown" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "thus" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "ti" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "time" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "times" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "tlab" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "tlabs" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "tlabsize" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "toggles" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "tool" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "toolkits" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "tools" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "top" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "total" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "trace" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "traces" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "training" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "troubleshoot" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "troubleshooting" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "true" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "truncated" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "tuning" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "turn" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "turned" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "turns" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "tutorials" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "two" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "type" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "typically" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "unexpected" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "unlock" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "unlockcommercialfeatures" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "unlockexperimentalvmoptions" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "unnamed" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "unspecified" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "untrusted" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "updates" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "upper" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "us" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "usage" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "use" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "usecompressedoops" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "useconcmarksweepgc" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "used" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "useful" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "useg" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "uselargepages" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "useparalleloldgc" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "user" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "uses" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "using" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "util" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "utilities" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "utility" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "utilize" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "valid" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "validates" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "value" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "values" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "variable" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "verbose" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "verification" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "verifier" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "verifies" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "version" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "versioning" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "versions" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "violates" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "virtual" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "visualvm" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "vm" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "vms" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "void" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "want" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "warning" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "watch" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "watches" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "web" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "whether" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "white" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "wild" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "wildcard" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "will" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "window" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "without" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "wombat" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "work" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "working" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "write" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "written" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "wrong" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "x" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "xbatch" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "xbootclasspath" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "xcheck" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "xfuture" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "xincgc" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "xint" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "xloggc" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "xml" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "xmn" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "xmnsize" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "xms" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "xmsn" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "xmx" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "xmxn" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "xnoclassgc" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "xprof" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "xrs" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "xssn" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "xverify" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "xx" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "xxlargepagesizeinbytes" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "young" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi",
+  "zip" : "/home/vlad/workspace/RIW/outdir/temp_invers_indexes/block.idxi"
+}

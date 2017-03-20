@@ -1,20 +1,43 @@
 package search;
 
+import com.fasterxml.jackson.core.type.TypeReference;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import entries.InverseConstructionMap;
+import entries.InverseIndexEntry;
+import entries.InverseIndexMap;
+import index.InverseIndexer;
+
+import java.io.File;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
 
 /**
  * Created by vlad on 09.03.2017.
  */
 public class SearchWorker {
-    public void parseInterogation(String interogation) {
+    public static Map<String, String> indexDictionary;
+
+    public SearchWorker() {
+        ObjectMapper objectMapper = new ObjectMapper();
+        try {
+            indexDictionary = objectMapper.readValue(new File(InverseIndexer.INVERSED_INDEX_DICITIONARY_PATH),
+                    new TypeReference<Map<String, String>>(){});
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public List<String> parseInterogation(String interogation) {
         List<String> tokens = tokenizeInterogation(interogation);
         List<String> files = new ArrayList<String>();
 
         for (String token : tokens) {
-            processToken(files, token);
+            files = processToken(files, token);
         }
 
+        return files;
     }
 
     public List<String> tokenizeInterogation(String interogation) {
@@ -36,39 +59,81 @@ public class SearchWorker {
     }
 
     private List<String> processToken(List<String> currentFilesList, String token) {
-        List<String> toReturn = new ArrayList<>();
         switch(token.charAt(0)) {
             case '^': //OR
-                break;
+                return reunion(currentFilesList, getFilesList(token.substring(1, token.length())));
             case '+': //AND
-                break;
+                return intersection(currentFilesList, getFilesList(token.substring(1, token.length())));
             case '-': //NOT
-                break;
+                return difference(currentFilesList, getFilesList(token.substring(1, token.length())));
             default:
-                toReturn = getFilesList(token);
+                return getFilesList(token);
+        }
+    }
+
+    public List<String> getFilesList(String word) {
+        String indexFilePath = indexDictionary.get(word);
+
+        if (indexFilePath == null) {
+            return new ArrayList<>();
+        }
+        InverseIndexMap indexMap = null;
+
+        ObjectMapper objectMapper = new ObjectMapper();
+        try {
+            indexMap = objectMapper.readValue(new File(indexFilePath), InverseIndexMap.class);
+        } catch (IOException e) {
+            e.printStackTrace();
         }
 
-        return toReturn;
+        for (InverseIndexEntry inverseEntry : indexMap.getIndexMap()) {
+            if (inverseEntry.getWord().equals(word)){
+                return inverseEntry.getFiles();
+            }
+        }
+        return null;
     }
 
 
     private List<String> reunion(List<String> l1, List<String> l2) {
-        for (String element : l1) {
-            if (l2.contains(element)) {
-                l2.remove(element);
-            }
-        }
+        if (l1.size() < l2.size()) {
+            List<String> reunionList = new ArrayList<>(l2);
 
-        l1.addAll(l2);
-        return l1;
+            for (String element : l1) {
+                if (!reunionList.contains(element)) {
+                    reunionList.add(element);
+                }
+            }
+
+            return reunionList;
+        } else {
+            List<String> reunionList = new ArrayList<>(l1);
+
+            for (String element : l2) {
+                if (!reunionList.contains(element)) {
+                    reunionList.add(element);
+                }
+            }
+
+            return reunionList;
+        }
     }
 
+    //to do - choose the smallest list
     private List<String> intersection(List<String> l1, List<String> l2) {
         List<String> intersectionList = new ArrayList<>();
 
-        for (String element : l1) {
-            if (l2.contains(element)) {
-                intersectionList.add(element);
+        if (l1.size() < l2.size()) {
+            for (String element : l1) {
+                if (l2.contains(element)) {
+                    intersectionList.add(element);
+                }
+            }
+        } else {
+            for (String element : l2) {
+                if (l1.contains(element)) {
+                    intersectionList.add(element);
+                }
             }
         }
 
@@ -85,9 +150,5 @@ public class SearchWorker {
         }
 
         return differenceList;
-    }
-
-    private List<String> getFilesList(String word) {
-        return null;
     }
 }

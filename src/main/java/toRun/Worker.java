@@ -1,8 +1,10 @@
 package toRun;
 
-import index.FileIndexer;
+import com.sun.org.apache.xpath.internal.SourceTree;
+import index.DirectIndexer;
 import index.InverseIndexer;
 import parse.*;
+import search.SearchWorker;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -17,11 +19,11 @@ public class Worker {
     public static void main(String[] args) {
         Properties properties = loadProperties();
 
-        IParser parser = new HtmlParser();
+        HtmlParser parser = new HtmlParser();
         DirectoryParser directoryParser = new DirectoryParser(parser);
 
-        FileIndexer fileIndexer = new FileIndexer(properties.getProperty("index_dictionary_path"));
-        DirectoryIndexer directoryIndexer = new DirectoryIndexer(fileIndexer);
+        DirectIndexer directIndexer = new DirectIndexer(properties.getProperty("index_dictionary_path"));
+        DirectoryIndexer directoryIndexer = new DirectoryIndexer(directIndexer);
         List<HtmlObject> htmlObjects = new ArrayList<HtmlObject>();
         String relativePath;
 
@@ -39,12 +41,28 @@ public class Worker {
             inverseIndexer.indexFiles(Paths.get("/home/vlad/workspace/RIW/outdir/direct_index.txt"));
             //inverseIndexer.BSBI(Paths.get("/home/vlad/workspace/RIW/outdir/direct_index.txt"));
 
-            /**
-             * USE JACKSON!
-             */
+
+//            System.out.println(searchWorker.parseInterogation("young"));
+//            System.out.println(searchWorker.parseInterogation("reserved ^young"));
+//            System.out.println(searchWorker.parseInterogation("reserved -young"));
+//            System.out.println(searchWorker.parseInterogation("reserved +young"));
         } catch (IOException e) {
             e.printStackTrace();
         }
+
+        SearchWorker searchWorker = new SearchWorker();
+        Scanner scanner = new Scanner(System.in);
+        String query;
+        do {
+            System.out.println("Search query:");
+            query = scanner.nextLine();
+            if (query.isEmpty()) {
+                break;
+            }
+
+            System.out.println("Found in files:");
+            System.out.println(searchWorker.parseInterogation(query));
+        } while(true);
     }
 
     public static Properties loadProperties() {

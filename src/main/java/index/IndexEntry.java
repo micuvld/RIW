@@ -1,5 +1,8 @@
 package index;
 
+import com.fasterxml.jackson.annotation.JsonCreator;
+import com.fasterxml.jackson.annotation.JsonProperty;
+
 import java.util.HashMap;
 import java.util.Map;
 
@@ -7,12 +10,21 @@ import java.util.Map;
  * Created by vlad on 28.02.2017.
  */
 public class IndexEntry {
+    String word;
     private Map<String, Integer> filesCounters;
 
     public IndexEntry(String file, int count) {
         this.filesCounters = new HashMap<String, Integer>();
         addFile(file, count);
     }
+
+
+//    @JsonCreator
+//    public IndexEntry(Map<String,Object> delegate) {
+//        _x = (Integer) delegate.get("x");
+//        _y = (Integer) delegate.get("y");
+//    }
+
 
     public void addFile(String file, int count) {
         filesCounters.put(file, count);

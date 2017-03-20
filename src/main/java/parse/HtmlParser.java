@@ -15,7 +15,7 @@ import java.util.List;
 /**
  * Created by vlad on 16.02.2017.
  */
-public class HtmlParser implements IParser {
+public class HtmlParser {
     public HtmlObject parseLocalDocument(Path path) throws IOException {
         HtmlObject htmlObject = new HtmlObject(path.getParent().toString(), path.getFileName().toString());
         File inputFile = new File(path.toString());
